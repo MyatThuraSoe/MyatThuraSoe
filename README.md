@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 Hi, I'm Myat Thura Soe! 👋
 
 🚀 About Me
@@ -66,4 +63,4 @@ Data Structures & Algorithms in JavaScript
 🏗️ GitHub: github.com/MyatThuraSoe
 
 Thanks for visiting my profile! 🚀 Feel free to connect or check out my projects! 😊
--->
+
