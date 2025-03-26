@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MyatThuraSoe" /> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Myat+Thura+Soe!;" /> </h1> <h3 align="center">A passionate software developer from Myanmar 🇲🇲</h3> <div align="center">
 🔭 I’m currently working on Full-Stack Web & Mobile Development
 
-🌱 I’m currently learning ** | Next.js | AWS | Docker | Kotlin | Machine Learning**
+🌱 I’m currently learning ** | Next.js | AWS | Docker | Kotlin **
 
 💬 Ask me about React, Node.js, Express, MongoDB, Firebase... or anything here
 
