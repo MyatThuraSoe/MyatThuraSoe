@@ -1,6 +1,6 @@
-Hi, I'm Myat Thura Soe! 👋
+Hi, I'm ##Myat Thura Soe! 👋
 
-🚀 About Me
+##🚀 About Me
 
 Aspiring software developer with a passion for web and mobile development. I specialize in building responsive web applications using the MERN stack and have hands-on experience in Android development. I am always eager to learn new technologies and contribute to clean, scalable code solutions.
 
