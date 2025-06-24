@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,java,spring,nextjs,mongodb,mysql,kotlin,php,git,docker,linux" />
 </div>
 
----
+<!---
 
 ## 📂 Highlight Projects
 
@@ -52,7 +52,7 @@
 5. **[Personal Portfolio](https://myatthurasoe.github.io/portfolio/)**  
    Showcases my work using HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB.
 
----
+--->
 
 <div align="center">
   <h3>Thank you for visiting! 🚀</h3>
