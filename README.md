@@ -9,7 +9,7 @@
 
 <p align="center">
   🔭 I'm working as a Full-Stack Web Developer <br />
-  🌱 Currently exploring <strong>Next.js</strong>, <strong>Docker</strong>, and <strong>Kotlin</strong> <br />
+  🌱 Currently exploring <strong>Laravel</strong>, <strong>Docker</strong>, and <strong>Kotlin</strong> <br />
   💬 Ask me about <strong>React, Node.js, Express, MongoDB, Spring Boot</strong> or anything tech-related!
 </p>
 
